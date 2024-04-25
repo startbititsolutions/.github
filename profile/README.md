@@ -2,7 +2,8 @@
   <a href="https://startbitsolutions.com/" target="_blank">
     <img alt="Startbit Cover" src="https://startbitsolutions.com/assets/images/logo.png" />
   </a>
-  <p>Welcome to Startbit IT Solutions’s GitHub Page 💻</p>
+  <br/>
+  <b>Welcome to Startbit IT Solutions’s GitHub Page 💻</b>
 </div>
 <hr/>
 
@@ -40,4 +41,6 @@ Ready to embark on a digital journey together? Whether you're looking for collab
 
 **Let's code the future together! 🚀✨**
 
-[Follow Us] [Star Our Repositories] [Contact Us] 
+[🌟 Follow Us]   [⭐ Star Our Repositories]   [🔗 Contact Us] 
+
+<hr/>
